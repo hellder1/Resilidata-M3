@@ -28,6 +28,15 @@ Podemos ver abaixo a representação da **modelagem física** a ultima etapa do 
 
  Segue o link da modelagem física feito na planilha Google Sheets:<br/> ➡️ [Planilha RESILIDATA](https://docs.google.com/spreadsheets/d/12fAri9q6etjufaG1lIKrC9VIvJzATUYTP2onGEc4k-A/edit?usp=sharing)
 
+ # 📃Respostas solicitadas após a modelagem:
+
+1. **Quais são as entidades necessárias?**
+- Mais de 5 entidades, todas as entidades necessárias foram mapeadas.
+2. **Quais são os principais campos e seus respectivos tipos?**
+- Tecnologia, empresa e colaboradores, todoas tipo int.
+3. **Como essas entidades estão relacionadas?**
+- Todas as tabelas estão corretamente relacionadas, com sua devida cardinalidade, atravées de chaves primárias e secundárias. 
+
 ## 🛠️ Ferramentas utilizadas:
 
 - [Lucidchart](https://www.lucidchart.com/pages/pt)
